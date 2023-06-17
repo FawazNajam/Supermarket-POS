@@ -1,0 +1,4 @@
+3 3
+12 Dettol_Soap Selfcare 50 100
+7 Mountain_Dew_500ml Drinks 100 55
+19 Lays_Wavy Snacks 50 50
